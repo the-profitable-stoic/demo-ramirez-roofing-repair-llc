@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Ramirez Roofing & Repair LLC",
+    "phone": "+18164441944",
+    "category": "roofer",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "KC's Trusted Roofing Experts",
+      "heroSubline": "Protecting Kansas City homes and businesses with quality roofing and reliable repairs. Ramirez Roofing & Repair: Built to Last.",
+      "aboutTitle": "Built on Integrity, Roofing Kansas City Since 2012",
+      "aboutText": [
+        "Ramirez Roofing & Repair LLC started with a simple goal: to provide honest, reliable roofing services to our neighbors in Kansas City. We saw too many homeowners getting taken advantage of, and we knew we could do better. We're a family-owned and operated business, and we treat every customer like they're one of our own.",
+        "Our approach is straightforward: assess the situation honestly, explain your options clearly, and deliver top-quality workmanship at a fair price. We don't cut corners, and we stand behind our work. Whether it's a minor repair or a complete roof replacement, we're committed to doing the job right the first time.",
+        "Kansas City is our home, and we're proud to be a part of this community. We actively support local charities and participate in neighborhood improvement projects. When you choose Ramirez Roofing, you're not just getting a roofer; you're supporting a local business that cares about the community."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Kansas City's unique weather challenges and housing styles, ensuring the right solutions for your roof."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only the highest-grade materials from trusted manufacturers, providing lasting protection for your home."
+        },
+        {
+          "title": "Skilled Craftsmanship",
+          "description": "Our experienced team of roofers is dedicated to delivering exceptional workmanship and attention to detail."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, upfront pricing with no hidden fees, so you know exactly what to expect."
+        }
+      ],
+      "ctaHeadline": "Get a Free Roofing Estimate Today",
+      "ctaSubline": "Protect your home with Ramirez Roofing & Repair. Contact us now for a free, no-obligation estimate."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast and reliable roof repair services to protect your home from leaks and damage.",
+        "description": "Kansas City weather can be brutal on roofs. From summer thunderstorms to winter ice storms, your roof takes a beating year-round. Ramirez Roofing & Repair offers comprehensive roof repair services to address any issue, big or small. We handle everything from minor leak repairs and shingle replacement to storm damage restoration and emergency repairs.\n\nWe start with a thorough inspection to identify the source of the problem and assess the extent of the damage. Our experienced team will then provide you with a detailed explanation of the necessary repairs and a transparent cost estimate. We use only high-quality materials and proven techniques to ensure lasting results.\n\nWhether you have a leaky roof, missing shingles, or storm damage, don't wait until the problem gets worse. Contact Ramirez Roofing & Repair for prompt and professional roof repair services. We'll protect your home and give you peace of mind.",
+        "process": [
+          "Step 1: Schedule a free inspection.",
+          "Step 2: We assess the damage and provide a detailed estimate.",
+          "Step 3: Our skilled team completes the repairs efficiently.",
+          "Step 4: We ensure your complete satisfaction with our work."
+        ],
+        "benefits": [
+          "Prevents further damage to your home",
+          "Extends the life of your roof",
+          "Restores your home's curb appeal",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a roof repair?",
+            "answer": "Common signs include water stains on your ceiling, missing or damaged shingles, and leaks in your attic. If you notice any of these, it's important to call us for an inspection."
+          },
+          {
+            "question": "How long does a roof repair take?",
+            "answer": "The duration of a roof repair depends on the extent of the damage. Minor repairs can often be completed in a few hours, while more extensive repairs may take a day or two."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we offer 24/7 emergency roof repair services to address urgent issues like storm damage and severe leaks. Call us anytime, and we'll respond quickly to protect your home."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Expert roof replacement services to protect your home with a durable, long-lasting roof.",
+        "description": "Is your roof showing its age? Are you experiencing frequent leaks or other problems? It may be time for a roof replacement. Ramirez Roofing & Repair offers professional roof replacement services to homeowners in Kansas City and the surrounding areas. We understand that replacing your roof is a significant investment, and we're committed to making the process as smooth and stress-free as possible.\n\nWe offer a wide selection of roofing materials to choose from, including asphalt shingles, metal roofing, and tile roofing. Our experienced team will help you select the best option for your home, budget, and aesthetic preferences. We handle every aspect of the roof replacement process, from removing the old roof to installing the new one with precision and care.\n\nA new roof is an investment that protects your home from the elements and adds value to your property. Trust Ramirez Roofing & Repair to deliver a high-quality roof replacement that will last for years to come.",
+        "process": [
+          "Step 1: Free consultation and roof inspection.",
+          "Step 2: Material selection and project planning.",
+          "Step 3: Removal of the old roof.",
+          "Step 4: Installation of the new roof with expert craftsmanship."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved energy efficiency",
+          "Enhanced curb appeal",
+          "Long-lasting protection from the elements"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a roof replacement?",
+            "answer": "If your roof is more than 20 years old, has extensive damage, or requires frequent repairs, it may be time for a replacement. We can provide a free inspection to assess the condition of your roof and recommend the best course of action."
+          },
+          {
+            "question": "How long does a roof replacement take?",
+            "answer": "A typical roof replacement takes 1-3 days, depending on the size and complexity of the project. We'll work efficiently to minimize disruption to your daily life."
+          },
+          {
+            "question": "What types of roofing materials do you offer?",
+            "answer": "We offer a variety of roofing materials, including asphalt shingles, metal roofing, tile roofing, and more. We'll help you choose the best option for your home and budget."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Protect your home's foundation with our professional gutter installation, repair, and cleaning services.",
+        "description": "Don't underestimate the importance of well-maintained gutters. They protect your home's foundation by channeling water away from your property. Clogged or damaged gutters can lead to water damage, foundation problems, and other costly repairs. Ramirez Roofing & Repair offers comprehensive gutter services to keep your home protected.\n\nWe provide gutter installation, repair, and cleaning services. Whether you need new gutters installed, existing gutters repaired, or your gutters cleaned to remove leaves and debris, we've got you covered. We offer a variety of gutter styles and materials to choose from, including seamless aluminum gutters, which are durable and require minimal maintenance.\n\nProtect your home from water damage with Ramirez Roofing & Repair's professional gutter services. Contact us today for a free estimate.",
+        "process": [
+          "Step 1: Gutter inspection and assessment.",
+          "Step 2: Gutter cleaning, repair, or replacement.",
+          "Step 3: Proper downspout placement for water diversion.",
+          "Step 4: Final inspection to ensure optimal performance."
+        ],
+        "benefits": [
+          "Prevents water damage to your home's foundation",
+          "Protects landscaping and prevents soil erosion",
+          "Reduces the risk of basement flooding",
+          "Extends the life of your roof"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall. If you have trees near your home, you may need to clean them more frequently."
+          },
+          {
+            "question": "What are seamless gutters?",
+            "answer": "Seamless gutters are custom-made to fit your home, eliminating seams that can leak and cause problems. They are more durable and require less maintenance than traditional gutters."
+          },
+          {
+            "question": "Do you offer gutter guards?",
+            "answer": "Yes, we offer gutter guards to prevent leaves and debris from clogging your gutters. Gutter guards can significantly reduce the need for gutter cleaning."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Reliable storm damage repair services to restore your roof and protect your home after severe weather.",
+        "description": "Kansas City is no stranger to severe weather. From hail storms and high winds to tornadoes and ice storms, your roof can take a beating. Ramirez Roofing & Repair specializes in storm damage repair services to help you restore your roof and protect your home after a severe weather event.\n\nWe provide comprehensive storm damage assessments, working with your insurance company to ensure a smooth and hassle-free claims process. Our experienced team will repair or replace damaged roofs, gutters, and siding, restoring your home to its pre-storm condition. We understand the urgency of storm damage repairs, and we offer prompt and reliable service to protect your home from further damage.\n\nDon't let storm damage compromise the integrity of your home. Contact Ramirez Roofing & Repair for expert storm damage repair services.",
+        "process": [
+          "Step 1: Emergency storm damage assessment.",
+          "Step 2: Detailed estimate for repairs.",
+          "Step 3: Assistance with insurance claims.",
+          "Step 4: Expert repair and restoration services."
+        ],
+        "benefits": [
+          "Protects your home from further damage",
+          "Restores your home to its pre-storm condition",
+          "Ensures a smooth insurance claims process",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What should I do after my roof is damaged in a storm?",
+            "answer": "First, ensure your safety. Then, contact your insurance company and Ramirez Roofing & Repair for an assessment of the damage. Avoid climbing on the roof yourself."
+          },
+          {
+            "question": "How long will it take to repair my roof after a storm?",
+            "answer": "The duration of the repair depends on the extent of the damage and the availability of materials. We'll provide you with a realistic timeline during the assessment process."
+          },
+          {
+            "question": "Do you work with insurance companies?",
+            "answer": "Yes, we have extensive experience working with insurance companies and can assist you with the claims process."
+          }
+        ]
+      },
+      {
+        "slug": "skylight-services",
+        "name": "Skylight Services",
+        "shortDescription": "Brighten your home with our skylight installation, repair, and replacement services.",
+        "description": "Add natural light and beauty to your home with skylight services from Ramirez Roofing & Repair. We offer professional skylight installation, repair, and replacement services to homeowners in Kansas City and the surrounding areas. Whether you're looking to add a new skylight or repair an existing one, we've got you covered.\n\nWe offer a variety of skylight styles and sizes to choose from, including fixed skylights, venting skylights, and sun tunnels. Our experienced team will help you select the best option for your home and budget. We handle every aspect of the skylight installation process, from cutting the opening in your roof to sealing the skylight to prevent leaks.\n\nBring the beauty of natural light into your home with skylight services from Ramirez Roofing & Repair. Contact us today for a free estimate.",
+        "process": [
+          "Step 1: Consultation and skylight selection.",
+          "Step 2: Precise installation according to manufacturer specifications.",
+          "Step 3: Leak-proof sealing and finishing.",
+          "Step 4: Final inspection and customer satisfaction."
+        ],
+        "benefits": [
+          "Increased natural light",
+          "Improved energy efficiency",
+          "Enhanced home aesthetics",
+          "Added ventilation"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of skylights?",
+            "answer": "Skylights provide natural light, improve energy efficiency, and enhance the aesthetics of your home."
+          },
+          {
+            "question": "How much does it cost to install a skylight?",
+            "answer": "The cost of skylight installation depends on the size, style, and complexity of the project. We'll provide you with a free estimate that outlines all costs."
+          },
+          {
+            "question": "Do skylights leak?",
+            "answer": "When properly installed and maintained, skylights should not leak. We use high-quality materials and proven installation techniques to ensure a leak-proof seal."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspections",
+        "name": "Roof Inspections",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems and protect your investment.",
+        "description": "Protect your investment with regular roof inspections from Ramirez Roofing & Repair. Our comprehensive roof inspections can identify potential problems before they become major issues, saving you time and money in the long run. We offer thorough inspections for homeowners in Kansas City and the surrounding areas.\n\nOur experienced team will carefully examine your roof for signs of damage, including missing shingles, leaks, and structural issues. We'll provide you with a detailed report of our findings and recommend any necessary repairs or maintenance. A roof inspection is a small investment that can prevent costly repairs and extend the life of your roof.\n\nSchedule a roof inspection with Ramirez Roofing & Repair today to ensure the long-term health of your roof.",
+        "process": [
+          "Step 1: Thorough visual inspection of the roof surface.",
+          "Step 2: Assessment of shingles, flashing, and other components.",
+          "Step 3: Identification of potential problems and damage.",
+          "Step 4: Detailed report with recommendations for repairs or maintenance."
+        ],
+        "benefits": [
+          "Early detection of potential problems",
+          "Prevention of costly repairs",
+          "Extended roof lifespan",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, and after any major storm. Regular inspections can help identify potential problems early on."
+          },
+          {
+            "question": "What is included in a roof inspection?",
+            "answer": "Our roof inspections include a thorough visual examination of the roof surface, assessment of shingles, flashing, and other components, and identification of potential problems and damage."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "We offer free roof inspections to homeowners in Kansas City and the surrounding areas. Contact us today to schedule your inspection."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Overland Park",
+        "slug": "overland-park-mo",
+        "state": "MO",
+        "content": "Ramirez Roofing & Repair LLC is proud to offer comprehensive roofing services to Overland Park, Missouri. As one of the largest cities in the Kansas City metropolitan area, Overland Park boasts a diverse range of homes, many built during the suburban expansion of the 1970s through the 1990s. We understand the unique roofing needs of these established neighborhoods, from shingle replacements to addressing storm damage. \n\nOur team is experienced in handling the challenges posed by Overland Park's climate, including cold winters with ice storms that can wreak havoc on roofs. We provide thorough inspections, expert repairs, and reliable installations to ensure your home is protected year-round. Whether you're dealing with a leaky roof, damaged gutters, or are looking to upgrade your existing roofing system, Ramirez Roofing & Repair LLC is here to help.",
+        "localContext": "Overland Park is known for its family-friendly atmosphere, excellent schools, and well-maintained neighborhoods, many featuring homes built in the late 20th century.",
+        "nearbyAreas": [
+          "Leawood",
+          "Lenexa",
+          "Prairie Village"
+        ]
+      },
+      {
+        "city": "Olathe",
+        "slug": "olathe-mo",
+        "state": "MO",
+        "content": "Ramirez Roofing & Repair LLC is your trusted roofing partner in Olathe, Missouri. Olathe experienced significant growth from the 1980s through the 2000s, resulting in many family-oriented developments. We specialize in providing roofing solutions that cater to the needs of these homes, offering everything from routine maintenance to complete roof replacements.\n\nWe're well-versed in the challenges presented by Olathe's climate, which includes cold winters and frequent ice storms. Our team is equipped to handle all types of roofing repairs and installations, ensuring your home is protected from the elements. From addressing storm damage to providing energy-efficient roofing options, Ramirez Roofing & Repair LLC is committed to serving the Olathe community.",
+        "localContext": "Olathe is a thriving suburban community recognized for its excellent schools, parks, and family-centered lifestyle, with many homes built in the late 20th and early 21st centuries.",
+        "nearbyAreas": [
+          "Lenexa",
+          "Gardner",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Lee's Summit",
+        "slug": "lee-s-summit-mo",
+        "state": "MO",
+        "content": "Ramirez Roofing & Repair LLC proudly serves the Lee's Summit, Missouri area, providing top-quality roofing services to homeowners throughout the city. Lee's Summit is characterized by its established neighborhoods, many with homes built during the 1970s through the 1990s. We understand the roofing needs of these homes and offer a wide range of services to keep them protected.\n\nOur team is experienced in handling the challenges posed by Lee's Summit's climate, including cold winters with ice storms. We provide thorough inspections, expert repairs, and reliable installations to ensure your home is protected year-round. Whether you're dealing with a leaky roof, damaged gutters, or are looking to upgrade your existing roofing system, Ramirez Roofing & Repair LLC is here to help.",
+        "localContext": "Lee's Summit is a vibrant city known for its excellent schools, family-friendly environment, and diverse housing options, with many homes built in the latter half of the 20th century.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Grain Valley",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Kansas City",
+        "slug": "kansas-city-mo",
+        "state": "MO",
+        "content": "Ramirez Roofing & Repair LLC is your trusted roofing expert in Kansas City, Missouri. Serving the heart of the metro area, we understand the diverse roofing needs of the city's many neighborhoods, from historic homes to modern developments.\n\nWe provide comprehensive roofing services, including repairs, replacements, and new installations. Our team is experienced in handling the challenges posed by Kansas City's climate, from severe thunderstorms to harsh winters. Whether you need emergency repairs after a storm or are looking to upgrade your roof for better energy efficiency, Ramirez Roofing & Repair LLC is here to help. We are committed to providing quality workmanship and exceptional customer service to homeowners throughout Kansas City.",
+        "localContext": "Kansas City is a vibrant city with a rich history, diverse culture, and a wide range of architectural styles, reflecting its growth and evolution over the decades.",
+        "nearbyAreas": [
+          "Independence",
+          "Gladstone",
+          "Parkville"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-mo",
+        "state": "MO",
+        "content": "Ramirez Roofing & Repair LLC is dedicated to providing exceptional roofing services to the residents of Independence, Missouri. As a city with a rich history and diverse housing stock, Independence presents a variety of roofing needs that we are well-equipped to handle.\n\nWe offer a full range of roofing services, including repairs, replacements, and new installations. Our team is experienced in dealing with the challenges of the local climate, ensuring your roof can withstand the elements. Whether you have a historic home or a newer build, Ramirez Roofing & Repair LLC is committed to providing quality workmanship and reliable service to the Independence community.",
+        "localContext": "Independence is a city with a strong sense of community, historic landmarks, and a mix of older and newer homes, reflecting its long history and continued growth.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Blue Springs",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Blue Springs",
+        "slug": "blue-springs-mo",
+        "state": "MO",
+        "content": "Ramirez Roofing & Repair LLC is proud to serve the Blue Springs, Missouri area with top-quality roofing services. Blue Springs is a growing suburban community with a mix of established neighborhoods and new developments. We understand the diverse roofing needs of homeowners in Blue Springs and are committed to providing reliable and affordable solutions.\n\nOur team is experienced in handling the challenges posed by the local climate, including severe thunderstorms and cold winters. We offer a full range of roofing services, from repairs and maintenance to complete roof replacements. Whether you need emergency repairs after a storm or are looking to upgrade your roof for better energy efficiency, Ramirez Roofing & Repair LLC is here to help.",
+        "localContext": "Blue Springs is a family-friendly community known for its excellent schools, parks, and recreational opportunities, with a mix of established and newer homes.",
+        "nearbyAreas": [
+          "Lee's Summit",
+          "Independence",
+          "Grain Valley"
+        ]
+      },
+      {
+        "city": "Lenexa",
+        "slug": "lenexa-mo",
+        "state": "MO",
+        "content": "Ramirez Roofing & Repair LLC is your trusted roofing provider in Lenexa, Missouri, offering comprehensive services to protect your home. As a thriving suburban city, Lenexa features a variety of housing styles, and we are equipped to handle all types of roofing systems.\n\nWe understand the challenges posed by Lenexa's climate, including harsh winters and severe thunderstorms. Our team provides expert repairs, replacements, and new installations to ensure your roof is in top condition. Whether you need to address storm damage, replace aging shingles, or upgrade to a more energy-efficient roofing system, Ramirez Roofing & Repair LLC is here to help the Lenexa community.",
+        "localContext": "Lenexa is a growing city known for its strong business community, family-friendly neighborhoods, and convenient access to the Kansas City metropolitan area.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Olathe",
+          "Shawnee"
+        ]
+      },
+      {
+        "city": "Shawnee",
+        "slug": "shawnee-mo",
+        "state": "MO",
+        "content": "Ramirez Roofing & Repair LLC is dedicated to providing top-notch roofing services to the Shawnee, Missouri community. With a mix of historic homes and newer developments, Shawnee presents a variety of roofing needs that we are well-prepared to address.\n\nOur team is experienced in handling the challenges of the local climate, ensuring your roof can withstand the elements. We offer a full range of services, including repairs, replacements, and new installations. Whether you have a leaky roof, damaged shingles, or are looking to upgrade to a more durable roofing system, Ramirez Roofing & Repair LLC is committed to providing quality workmanship and reliable service to the residents of Shawnee.",
+        "localContext": "Shawnee is a vibrant city known for its strong community spirit, excellent schools, and convenient location within the Kansas City metropolitan area.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Lenexa",
+          "Kansas City"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "Ramirez Roofing fixed a nasty leak around my chimney after the last big storm. They were fast, professional, and didn't try to upsell me on anything. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "We had Ramirez Roofing replace our entire roof. The crew was efficient, cleaned up everything perfectly, and the new roof looks fantastic! Very happy with the service.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "Good and reliable gutter cleaning service. They showed up on time and cleared out all the leaves and debris. My only slight complaint is they left a small mess in the yard, but overall, a great job.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Storm Damage Repair",
+        "text": "After a bad hail storm, Ramirez Roofing helped us navigate the insurance claim process and quickly repaired the damage to our roof. They were very helpful and responsive throughout the whole process.",
+        "date": "2025-06-01"
+      },
+      {
+        "name": "Linda B.",
+        "rating": 5,
+        "service": "Skylight Installation",
+        "text": "We had a skylight installed in our living room and it has made such a difference! The Ramirez team did a fantastic job, and the skylight doesn't leak at all, even after heavy rain. Great work!",
+        "date": "2025-07-18"
+      },
+      {
+        "name": "Robert G.",
+        "rating": 4,
+        "service": "Roof Inspection",
+        "text": "I hired them for a roof inspection before buying a house in Waldo. They found some potential issues that I was able to negotiate with the seller. Well worth the cost.",
+        "date": "2025-08-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Ramirez Roofing & Repair | KC Roofing",
+        "description": "Trusted Kansas City roofing contractor. Roof repair, replacement, gutters, storm damage. Free estimates!"
+      },
+      "about": {
+        "title": "About Ramirez Roofing & Repair",
+        "description": "Learn about Ramirez Roofing & Repair, your local Kansas City roofing experts. Quality workmanship, honest service."
+      },
+      "services": {
+        "title": "Roofing Services | Kansas City, MO",
+        "description": "Ramirez Roofing & Repair offers comprehensive roofing services in Kansas City: repair, replacement, gutters, inspections."
+      },
+      "contact": {
+        "title": "Contact Ramirez Roofing & Repair",
+        "description": "Contact Ramirez Roofing & Repair for a free roofing estimate in Kansas City. Call +18164441944 today!"
+      },
+      "reviews": {
+        "title": "Ramirez Roofing & Repair Reviews",
+        "description": "Read what our customers are saying about Ramirez Roofing & Repair. Trusted roofing services in Kansas City, MO."
+      },
+      "service-areas": {
+        "title": "Service Areas | Ramirez Roofing",
+        "description": "Ramirez Roofing & Repair serves Kansas City, Overland Park, Olathe, Lee's Summit. Quality roofing services near you."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp",
+      "skylight-services": "/images/service-skylight-services.webp",
+      "roof-inspections": "/images/service-roof-inspections.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "skylight-services": {
+        "src": "/images/service-skylight-services.webp",
+        "srcset": "/images/service-skylight-services-400w.webp 400w, /images/service-skylight-services-800w.webp 800w, /images/service-skylight-services-1200w.webp 1200w, /images/service-skylight-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspections": {
+        "src": "/images/service-roof-inspections.webp",
+        "srcset": "/images/service-roof-inspections-400w.webp 400w, /images/service-roof-inspections-800w.webp 800w, /images/service-roof-inspections-1200w.webp 1200w, /images/service-roof-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
